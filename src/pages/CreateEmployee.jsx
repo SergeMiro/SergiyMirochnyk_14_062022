@@ -2,7 +2,7 @@
 import { EmployeeForm } from '../components/EmployeeForm';
 import { Layout } from '../components/Layout';
 import { useState } from 'react';
-//import { Modal } from '../components/Modal';
+
 import { Modal } from 'p14-plugin-miro/dist';
 import done from '../assets/hrnet-logo.jpeg';
 
