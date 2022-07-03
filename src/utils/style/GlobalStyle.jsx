@@ -14,6 +14,7 @@ export const GlobalStyle = createGlobalStyle`
     color: #38393b;
     font-weight: ${({ theme }) => theme.fontWeight.regular};
   }
+
   input {
     font-family: sans-serif;
     }

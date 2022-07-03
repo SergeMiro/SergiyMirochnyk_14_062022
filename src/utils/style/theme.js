@@ -26,3 +26,4 @@ export const theme = {
 	  button: '50px',
 	},
  };
+ 

@@ -1,4 +1,3 @@
-
 import { EmployeeTable } from '../components/EmployeeTable';
 import { Layout } from '../components/Layout';
 

@@ -1,4 +1,3 @@
-
 // Regex to check form validity
 
 export const zipCodesRegex = /(^\d{5}$)|(^\d{9}$)|(^\d{5}-\d{4}$)/; // US ZipCode
