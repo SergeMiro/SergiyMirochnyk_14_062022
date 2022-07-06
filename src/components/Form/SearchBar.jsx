@@ -19,6 +19,7 @@ const Icon = styled.img`
   margin-top: 8px;
   padding: 11px;
   border: none;
+  cursor: pointer;
 `;
 
 /**

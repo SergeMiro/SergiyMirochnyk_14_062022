@@ -45,6 +45,7 @@ const Button = styled.button`
   margin-top: 24px;
   margin-bottom: 36px;
   padding: 16px 54px;
+  cursor: pointer;
   border: none;
   &:hover {
     background-color: ${({ theme }) => theme.colors.secondary};
