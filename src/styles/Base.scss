@@ -1,0 +1,42 @@
+@import url('https://necolas.github.io/normalize.css/latest/normalize.css');
+@import './mixins.scss';
+@import './variables.scss';
+*{
+   box-sizing: border-box;
+   padding: 0;
+   margin: 0;
+   list-style: none;
+   list-style-type: none;
+   color:$color-text
+}
+html {
+   font-family: "Source Sans Pro", Arial, sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   color: #2c3e50;
+ }
+ 
+
+body{
+   font-family: "Source Sans Pro", Arial, sans-serif;
+   font-size: 14 px; /* 12px */
+   margin: 0;
+   display: flex;
+   flex-direction: column;
+   min-height: 100vh;
+   background-color: $color-bg;
+}
+
+a{
+   text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active{
+   color: $color-primary;
+}
+
+.bg-blanc{
+   background-color: #FFFFFF;
+   box-shadow:$hvs-o2s-shadow
+}
