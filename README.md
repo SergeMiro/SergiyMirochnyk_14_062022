@@ -7,3 +7,6 @@
  - Run the Frontend Api, which will then listen on port 3000 by default : npm start
 
  - The App runs on http://localhost:3000/
+
+### Plugin Modal 'ReactModalMz'
+https://www.npmjs.com/package/react-modal-mz
